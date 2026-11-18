@@ -4,7 +4,7 @@
 
 ## 🎯 Ce que je recherche
 
-Un **stage de fin d'études (PFE) de 6 mois en data science ou intelligence artificielle**.
+Un **stage de fin d'études (PFE) de 6 mois en data science et intelligence artificielle**.
 
 ## 🚀 À propos de moi
 
